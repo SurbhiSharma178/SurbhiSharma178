@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surbhi Sharma</h1>
-<h3 align="center">Backend Developer | MERN Stack Engineer | 1+ Year Experience</h3>
+<h3 align="center">Backend Developer | MERN Stack Engineer </h3>
 
 <p align="center">
 Backend Developer with 1+ year of hands-on experience building scalable REST APIs, secure authentication systems, and backend services using Node.js and MERN Stack. Passionate about writing clean code, optimizing performance, and developing reliable server-side applications.
